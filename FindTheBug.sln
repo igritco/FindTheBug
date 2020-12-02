@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30317.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait1", "ConsoleApp7\AsyncAwait1.csproj", "{AA124B6F-47E9-4880-AFD7-769FB78008AE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads1", "Threads1\Threads1.csproj", "{4440F468-96B1-4DFD-BDA5-E0D92689EE22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwait1", "AsyncAwait1\AsyncAwait1.csproj", "{D6E9855F-F0A7-4617-970A-06715C845E7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AA124B6F-47E9-4880-AFD7-769FB78008AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA124B6F-47E9-4880-AFD7-769FB78008AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA124B6F-47E9-4880-AFD7-769FB78008AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AA124B6F-47E9-4880-AFD7-769FB78008AE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4440F468-96B1-4DFD-BDA5-E0D92689EE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4440F468-96B1-4DFD-BDA5-E0D92689EE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4440F468-96B1-4DFD-BDA5-E0D92689EE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4440F468-96B1-4DFD-BDA5-E0D92689EE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E9855F-F0A7-4617-970A-06715C845E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E9855F-F0A7-4617-970A-06715C845E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E9855F-F0A7-4617-970A-06715C845E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E9855F-F0A7-4617-970A-06715C845E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
