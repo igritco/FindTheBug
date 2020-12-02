@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\AsyncAwait1.exe
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\AsyncAwait1.deps.json
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\AsyncAwait1.runtimeconfig.json
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\AsyncAwait1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\AsyncAwait1.dll
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\AsyncAwait1.pdb
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\AsyncAwait1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\AsyncAwait1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\AsyncAwait1.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\AsyncAwait1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\AsyncAwait1.dll
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\AsyncAwait1.pdb
+C:\Users\PC\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\AsyncAwait1.genruntimeconfig.cache
