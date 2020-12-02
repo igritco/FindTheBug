@@ -11,7 +11,6 @@ namespace Threads1
             int budget = 0;
             var incomingValues = GetIncomingValues();
             var outgoingValues = GetOutgoingValues();
-            var lockObject = new object();
             var thread = new Thread(() =>
             {
                 foreach (var value in incomingValues)
